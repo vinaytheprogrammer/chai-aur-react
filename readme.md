@@ -27,7 +27,7 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 2. **Create react projects**:
    - [Watch Lesson](https://www.youtube.com/watch?v=k3KqQvywToE&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=2)  OR
-   - [Watch Lesson]([https://www.youtube.com/watch?v=k3KqQvywToE&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=2](https://www.youtube.com/watch?v=FxgM9k1rg0Q&t=3861s))
+   - [Watch Lesson](https://www.youtube.com/watch?v=FxgM9k1rg0Q&t=3861s)
 
 3. **Understand the react flow and structure**:
    - [Watch Lesson](https://www.youtube.com/watch?v=yNbnA5pryMg&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=3)
